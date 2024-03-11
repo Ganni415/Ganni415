@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Ganesh</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b761177kzfzoo6gxk2hhqu3nhj4i8jjxbq25zz7o1bd9i&ep=v1_gifs_search&rid=200.webp&ct=g"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganni415&label=Profile%20views&color=0e75b6&style=flat" alt="ganni415" /> </p>
 
 - 🔭 I’m currently working on **Global Accounts Receivable**
